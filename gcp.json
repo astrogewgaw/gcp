@@ -17,8 +17,8 @@
             "GL": 244.51,
             "GB": -35.03,
             "DIST": 12.1,
-            "NPSR": 9,
-            "NBINPSR": 6
+            "NPSR": 13,
+            "NBINPSR": 7
         },
         "3": {
             "NAME": "M53 (NGC 5024)",
@@ -1250,6 +1250,98 @@
                 "ECC": null,
                 "MINMASS": null,
                 "NOTES": "binary",
+                "REFS": [
+                    "http://trapum.org/discoveries.html"
+                ],
+                "OFFSET_ERR": null,
+                "P0_ERR": null,
+                "P1_ERR": null,
+                "DM_ERR": null,
+                "PB_ERR": null,
+                "A1_ERR": null,
+                "ECC_ERR": null,
+                "MINMASS_ERR": null
+            },
+            "10": {
+                "NAME": "J0514-4002J",
+                "OFFSET": null,
+                "P0": 6.63,
+                "P1": null,
+                "DM": 52.06,
+                "PB": null,
+                "A1": null,
+                "ECC": null,
+                "MINMASS": null,
+                "NOTES": null,
+                "REFS": [
+                    "http://trapum.org/discoveries.html"
+                ],
+                "OFFSET_ERR": null,
+                "P0_ERR": null,
+                "P1_ERR": null,
+                "DM_ERR": null,
+                "PB_ERR": null,
+                "A1_ERR": null,
+                "ECC_ERR": null,
+                "MINMASS_ERR": null
+            },
+            "11": {
+                "NAME": "J0514-4002K",
+                "OFFSET": null,
+                "P0": 4.69,
+                "P1": null,
+                "DM": 51.93,
+                "PB": null,
+                "A1": null,
+                "ECC": null,
+                "MINMASS": null,
+                "NOTES": null,
+                "REFS": [
+                    "http://trapum.org/discoveries.html"
+                ],
+                "OFFSET_ERR": null,
+                "P0_ERR": null,
+                "P1_ERR": null,
+                "DM_ERR": null,
+                "PB_ERR": null,
+                "A1_ERR": null,
+                "ECC_ERR": null,
+                "MINMASS_ERR": null
+            },
+            "12": {
+                "NAME": "J0514-4002L",
+                "OFFSET": null,
+                "P0": 2.95,
+                "P1": null,
+                "DM": 51.23,
+                "PB": null,
+                "A1": null,
+                "ECC": null,
+                "MINMASS": null,
+                "NOTES": "likely eclipsing binary",
+                "REFS": [
+                    "http://trapum.org/discoveries.html"
+                ],
+                "OFFSET_ERR": null,
+                "P0_ERR": null,
+                "P1_ERR": null,
+                "DM_ERR": null,
+                "PB_ERR": null,
+                "A1_ERR": null,
+                "ECC_ERR": null,
+                "MINMASS_ERR": null
+            },
+            "13": {
+                "NAME": "J0514-4002M",
+                "OFFSET": null,
+                "P0": 4.79,
+                "P1": null,
+                "DM": 51.66,
+                "PB": null,
+                "A1": null,
+                "ECC": null,
+                "MINMASS": null,
+                "NOTES": null,
                 "REFS": [
                     "http://trapum.org/discoveries.html"
                 ],
