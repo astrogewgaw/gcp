@@ -17,7 +17,7 @@
             "GL": 244.51,
             "GB": -35.03,
             "DIST": 12.1,
-            "NPSR": 13,
+            "NPSR": 14,
             "NBINPSR": 7
         },
         "3": {
@@ -1337,6 +1337,29 @@
                 "P0": 4.79,
                 "P1": null,
                 "DM": 51.66,
+                "PB": null,
+                "A1": null,
+                "ECC": null,
+                "MINMASS": null,
+                "NOTES": null,
+                "REFS": [
+                    "http://trapum.org/discoveries.html"
+                ],
+                "OFFSET_ERR": null,
+                "P0_ERR": null,
+                "P1_ERR": null,
+                "DM_ERR": null,
+                "PB_ERR": null,
+                "A1_ERR": null,
+                "ECC_ERR": null,
+                "MINMASS_ERR": null
+            },
+            "14": {
+                "NAME": "J0514-4002N",
+                "OFFSET": null,
+                "P0": 5.56,
+                "P1": null,
+                "DM": 51.09,
                 "PB": null,
                 "A1": null,
                 "ECC": null,
