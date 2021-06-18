@@ -1414,7 +1414,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1437,7 +1437,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1460,7 +1460,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1593,7 +1593,7 @@
             "1": {
                 "NAME": "J1342+2822A",
                 "OFFSET": null,
-                "P0": 2.545,
+                "P0": 2.54474,
                 "P1": null,
                 "DM": 26.5,
                 "PB": 0.1359,
@@ -1603,7 +1603,8 @@
                 "NOTES": "black widow",
                 "REFS": [
                     "https://ui.adsabs.harvard.edu/abs/2007ApJ...670..363H",
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559",
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1696,7 +1697,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1719,7 +1720,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1862,7 +1863,7 @@
                 "MINMASS": 0.228,
                 "NOTES": null,
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2141,7 +2142,7 @@
                 "MINMASS": null,
                 "NOTES": "Needs confirmation",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2155,7 +2156,7 @@
             "2": {
                 "NAME": "J1657-0406B",
                 "OFFSET": null,
-                "P0": 3.67,
+                "P0": 7.35,
                 "P1": null,
                 "DM": 43.355,
                 "PB": null,
@@ -2164,7 +2165,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2348,7 +2349,7 @@
                 "NAME": "J1717+4308A",
                 "OFFSET": null,
                 "P0": 3.15972,
-                "P1": null,
+                "P1": 6.1131,
                 "DM": 35.45,
                 "PB": 0.20087,
                 "A1": 0.398703,
@@ -2570,7 +2571,7 @@
             "1": {
                 "NAME": "J1737-0314A",
                 "OFFSET": null,
-                "P0": 1.98,
+                "P0": 1.97998,
                 "P1": 9.55,
                 "DM": 82.1,
                 "PB": 0.2278,
@@ -2579,7 +2580,7 @@
                 "MINMASS": 0.018,
                 "NOTES": "black widow",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2602,7 +2603,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2625,7 +2626,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2648,7 +2649,7 @@
                 "MINMASS": 0.142,
                 "NOTES": "eclipsing redback",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2671,7 +2672,7 @@
                 "MINMASS": 0.195,
                 "NOTES": "eclipsing redback",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -4170,7 +4171,7 @@
             "8": {
                 "NAME": "J1801-0857H",
                 "OFFSET": null,
-                "P0": 5.64,
+                "P0": 5.64272,
                 "P1": 360.0,
                 "DM": 179.6,
                 "PB": null,
@@ -4179,7 +4180,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -4202,7 +4203,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5434,7 +5435,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5457,7 +5458,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5480,7 +5481,7 @@
                 "MINMASS": null,
                 "NOTES": "needs confirmation",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5696,7 +5697,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5721,7 +5722,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5744,7 +5745,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5767,7 +5768,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5790,7 +5791,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5813,7 +5814,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://fast.bao.ac.cn/cms/article/65/"
+                    "https://arxiv.org/abs/2106.08559"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
