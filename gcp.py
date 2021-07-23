@@ -1,9 +1,23 @@
+"""
+gcp.py
+
+Copyright (c) 2021 Ujjwal Panda
+
+Script to parse the database of pulsars in globular clusters, created and maintained
+by Paulo Freire. This database consists of two tables: one contains information about
+the clusters' themselves, while the other contains information about the pulsars that
+have been detected in each cluster. This script scraps both tables and stores them as
+JSON and as an SQLite database (as two separate tables: "clusters" and "data").
+"""
+
 if __name__ == "__main__":
 
     import re
     import copy
+    import dataset  # type: ignore
 
     from json import dump
+    from pathlib import Path
     from requests import get
     from itertools import groupby
     from bs4 import BeautifulSoup  # type: ignore
@@ -151,3 +165,15 @@ if __name__ == "__main__":
             fp=fobj,
             indent=4,
         )
+
+    dbpath = Path.cwd().joinpath("gcp.db")
+    dbpath.unlink(missing_ok=True)
+
+    db = dataset.connect(f"sqlite:///{dbpath}")
+    dtable = db["data"]
+    ctable = db["clusters"]
+    for cluster in clusters.values():
+        ctable.insert(cluster)
+    for item in cluster_pulsars.values():
+        dtable.insert(item)
+    db.close()

@@ -26,10 +26,10 @@ jobs:
       # Running the script for scrapping.
       - name: Run the scrapping script.
         run: |
-          python scrap.py
-          git add gcp.json
-          git config --global user.email "gcpbot@example.com"
+          python gcp.py
+          git add gcp.json gcp.db
           git config --global user.name "gcpbot"
+          git config --global user.email "gcpbot@example.com"
           git commit -m "Globular cluster pulsars database updated: `date +'%Y-%m-%d %H:%M:%S'`" || true
       # Pushing the changes.
       - name: Push the changes.
