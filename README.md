@@ -5,13 +5,13 @@
 [![Code style: black][black-badge]][black]
 [![A Koshka Project][koshka-badge]][koshka]
 
-## A database of pulsars in globular clusters for koshka :cat:
+## A database of pulsars in globular clusters for koshka 😸
 
 <div align="justify">
 
 This is a database of all pulsars detected in globular cluster, created and maintained by [*Paulo Freire*](freire). The data is available both via a [*webpage*][gc-web] and via a [*text file*][gc-txt]. This repository scraps the former, storing the parsed data as both a [*JSON file*](gcp.json) and as an [*SQLite database*](gcp.db).
 
-The latter powers the [**koshka :cat: project**][koshka].
+The latter powers the [**koshka 😸 project**][koshka].
 
 </div>
 
