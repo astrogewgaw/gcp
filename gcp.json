@@ -1414,7 +1414,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1437,7 +1437,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1460,7 +1460,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1603,8 +1603,8 @@
                 "NOTES": "black widow",
                 "REFS": [
                     "https://ui.adsabs.harvard.edu/abs/2007ApJ...670..363H",
-                    "https://arxiv.org/abs/2106.08559",
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P",
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1697,7 +1697,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1720,7 +1720,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1863,7 +1863,7 @@
                 "MINMASS": 0.228,
                 "NOTES": null,
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2142,7 +2142,7 @@
                 "MINMASS": null,
                 "NOTES": "Needs confirmation",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2165,7 +2165,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2580,7 +2580,7 @@
                 "MINMASS": 0.018,
                 "NOTES": "black widow",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2603,7 +2603,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2626,7 +2626,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2649,7 +2649,7 @@
                 "MINMASS": 0.142,
                 "NOTES": "eclipsing redback",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2672,7 +2672,7 @@
                 "MINMASS": 0.195,
                 "NOTES": "eclipsing redback",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -4180,7 +4180,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -4203,7 +4203,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5436,7 +5436,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5459,7 +5459,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5482,7 +5482,7 @@
                 "MINMASS": null,
                 "NOTES": "needs confirmation",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5698,7 +5698,7 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5723,7 +5723,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5746,7 +5746,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5769,7 +5769,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5792,7 +5792,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5815,7 +5815,7 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://arxiv.org/abs/2106.08559"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
