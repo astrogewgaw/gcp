@@ -1628,7 +1628,8 @@
                 "NOTES": null,
                 "REFS": [
                     "https://ui.adsabs.harvard.edu/abs/2007ApJ...670..363H",
-                    "https://ui.adsabs.harvard.edu/abs/2019ApJ...875...25C"
+                    "https://ui.adsabs.harvard.edu/abs/2019ApJ...875...25C",
+                    "https://arxiv.org/abs/2107.02749"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -1720,7 +1721,8 @@
                 "MINMASS": null,
                 "NOTES": "binary",
                 "REFS": [
-                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P"
+                    "https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..28P",
+                    "https://arxiv.org/abs/2107.02749"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -2357,7 +2359,8 @@
                 "MINMASS": 0.18,
                 "NOTES": "eclipsing redback",
                 "REFS": [
-                    "https://ui.adsabs.harvard.edu/abs/2020ApJ...892L...6P"
+                    "https://ui.adsabs.harvard.edu/abs/2020ApJ...892L...6P",
+                    "https://arxiv.org/abs/2107.02749"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5509,7 +5512,8 @@
                 "REFS": [
                     "https://ui.adsabs.harvard.edu/abs/1989Natur.337..531W",
                     "http://www.ligo.caltech.edu/~anderson/thesis/thesis.html",
-                    "https://ui.adsabs.harvard.edu/abs/2006ApJ...644L.113J"
+                    "https://ui.adsabs.harvard.edu/abs/2006ApJ...644L.113J",
+                    "https://arxiv.org/abs/2107.02749"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5534,7 +5538,8 @@
                 "REFS": [
                     "https://ui.adsabs.harvard.edu/abs/1990Natur.346...42A",
                     "http://www.ligo.caltech.edu/~anderson/thesis/thesis.html",
-                    "https://ui.adsabs.harvard.edu/abs/2006ApJ...644L.113J"
+                    "https://ui.adsabs.harvard.edu/abs/2006ApJ...644L.113J",
+                    "https://arxiv.org/abs/2107.02749"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5583,7 +5588,8 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "http://www.ligo.caltech.edu/~anderson/thesis/thesis.html"
+                    "http://www.ligo.caltech.edu/~anderson/thesis/thesis.html",
+                    "https://arxiv.org/abs/2107.02749"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5606,7 +5612,8 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "http://www.ligo.caltech.edu/~anderson/thesis/thesis.html"
+                    "http://www.ligo.caltech.edu/~anderson/thesis/thesis.html",
+                    "https://arxiv.org/abs/2107.02749"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5629,7 +5636,8 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "http://www.ligo.caltech.edu/~anderson/thesis/thesis.html"
+                    "http://www.ligo.caltech.edu/~anderson/thesis/thesis.html",
+                    "https://arxiv.org/abs/2107.02749"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
@@ -5652,7 +5660,8 @@
                 "MINMASS": null,
                 "NOTES": null,
                 "REFS": [
-                    "http://www.ligo.caltech.edu/~anderson/thesis/thesis.html"
+                    "http://www.ligo.caltech.edu/~anderson/thesis/thesis.html",
+                    "https://arxiv.org/abs/2107.02749"
                 ],
                 "OFFSET_ERR": null,
                 "P0_ERR": null,
