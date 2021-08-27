@@ -247,7 +247,7 @@
             "GL": 2.79,
             "GB": -7.91,
             "DIST": 7.9,
-            "NPSR": 10,
+            "NPSR": 11,
             "NBINPSR": 2
         },
         "26": {
@@ -4607,6 +4607,29 @@
                 "P0": 20.89,
                 "P1": null,
                 "DM": 86.85,
+                "PB": null,
+                "A1": null,
+                "ECC": null,
+                "MINMASS": null,
+                "NOTES": null,
+                "REFS": [
+                    "http://trapum.org/discoveries.html"
+                ],
+                "OFFSET_ERR": null,
+                "P0_ERR": null,
+                "P1_ERR": null,
+                "DM_ERR": null,
+                "PB_ERR": null,
+                "A1_ERR": null,
+                "ECC_ERR": null,
+                "MINMASS_ERR": null
+            },
+            "11": {
+                "NAME": "J1823-3021K",
+                "OFFSET": 2.8,
+                "P0": 2497.72,
+                "P1": null,
+                "DM": 96.86,
                 "PB": null,
                 "A1": null,
                 "ECC": null,
